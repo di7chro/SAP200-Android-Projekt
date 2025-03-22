@@ -1,0 +1,27 @@
+# Android Studio specific files
+.idea/
+*.iml
+app/build
+src/test
+src/androidTest
+
+# Gradle files
+.gradle/
+gradle/
+build/
+gradlew
+gradlew.bat
+gradle.properties
+*.apk
+*.ap_ 
+settings.gradle
+
+# Android specific
+local.properties
+.cxx/
+.externalNativeBuild/
+
+# User-specific files
+*.log
+.DS_Store
+Thumbs.db
